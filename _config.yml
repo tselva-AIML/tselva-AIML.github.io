@@ -1,4 +1,4 @@
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 title: Selvakumar Thirumalainambi - AI/ML Portfolio
 description: Portfolio of AI/ML projects by T. Selva, showcasing computer vision and data science.
 url: "https://tselva-AIML.github.io"
