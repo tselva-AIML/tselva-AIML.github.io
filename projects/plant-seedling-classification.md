@@ -3,8 +3,6 @@ title: Plant Seedling Classification
 layout: default
 ---
 
-# Plant Seedling Classification
-
 **Developed a Convolutional Neural Network (CNN) to classify plant seedlings and weeds with 98% accuracy, automating agricultural processes to enhance crop yields.**
 
 Completed for the **Introduction to Computer Vision** course as part of my **Post Graduate Program in AI/ML** (March 2025), this project leverages **TensorFlow**, **Keras**, and **OpenCV** to achieve **98% accuracy** on a multi-class dataset. It demonstrates my expertise in image processing, deep learning, and model evaluation, aligning with my certifications in **Azure Data Scientist Associate**, **AWS Certified AI Practitioner**, and **Power BI Data Analyst**.
@@ -28,9 +26,9 @@ Completed for the **Introduction to Computer Vision** course as part of my **Pos
 
 ## Artifacts
 
-- **Source Code**: [GitHub Repository](https://github.com/tselva-AIML/AI-ML-Portfolio/plant-seedling-classification) – Full codebase, including model training and evaluation scripts.
-- **Interactive Notebook**: [HTML Notebook](https://github.com/tselva-AIML/AI-ML-Portfolio/raw/main/plant-seedling-classification/visuals/plant_seedling_notebook.html) – Visualizations and code walkthrough.
-- **Dataset**: [seedlings.npy (222 MB)](https://drive.google.com/file/d/INSERT_YOUR_FILE_ID/view?usp=sharing) – Complete dataset for reproducibility.
+- **Source Code**: [GitHub Repository](https://github.com/tselva-AIML/AI-ML-Portfolio/plant-seedling-classification)
+- **Interactive Notebook**: [HTML Notebook](https://github.com/tselva-AIML/AI-ML-Portfolio/raw/main/plant-seedling-classification/visuals/plant_seedling_notebook.html)
+- **Dataset**: [seedlings.npy (222 MB)](https://drive.google.com/file/d/INSERT_YOUR_FILE_ID/view?usp=sharing)
 
 ## Visual Insight
 
