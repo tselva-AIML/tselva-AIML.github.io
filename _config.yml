@@ -1,0 +1,26 @@
+theme: minimal-mistakes-jekyll
+title: Selvakumar Thirumalainambi - AI/ML Portfolio
+description: Portfolio of AI/ML projects by T. Selva, showcasing computer vision and data science.
+url: "https://tselva-AIML.github.io"
+author:
+  name: Selva Kumar T
+  email: tselva@gmail.com
+plugins:
+  - jekyll-seo-tag
+  - jekyll-include-cache
+seo:
+  description: AI/ML portfolio by Selva Kumar Thirumalainambi, featuring computer vision and data science projects.
+  keywords: AI, Machine Learning, Computer Vision, TensorFlow, Keras
+include:
+  - _pages
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: default
+minimal_mistakes_skin: "mint"
