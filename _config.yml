@@ -24,6 +24,11 @@ defaults:
       type: projects
     values:
       layout: default
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
 minimal_mistakes_skin: "mint"
 navigation:
   - title: Home
@@ -36,3 +41,7 @@ navigation:
     url: https://github.com/tselva-AIML/AI-ML-Portfolio
   - title: LinkedIn
     url: https://www.linkedin.com/in/selvakumar-thirumalainambi
+# Disable Recent Posts on homepage
+home:
+  archive:
+    show: false
