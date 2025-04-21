@@ -1,16 +1,16 @@
 remote_theme: mmistakes/minimal-mistakes@4.24.0
-title: T. Selva - AI/ML Portfolio
-description: Portfolio of AI/ML projects by T. Selva, showcasing computer vision and data science.
+title: Selvakumar Thirumalainambi - AI/ML Portfolio
+description: Portfolio of AI/ML projects by Selvakumar Thirumalainambi, showcasing computer vision and data science.
 url: "https://tselva-AIML.github.io"
 author:
-  name: T. Selva
-  email: your.email@example.com
+  name: Selvakumar Thirumalainambi
+  email: tselva@gmail.com
 plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
   - jekyll-remote-theme
 seo:
-  description: AI/ML portfolio by T. Selva, featuring computer vision and data science projects.
+  description: AI/ML portfolio by Selvakumar Thirumalainambi, featuring computer vision and data science projects.
   keywords: AI, Machine Learning, Computer Vision, TensorFlow, Keras
 include:
   - _pages
@@ -35,4 +35,4 @@ navigation:
   - title: GitHub
     url: https://github.com/tselva-AIML/AI-ML-Portfolio
   - title: LinkedIn
-    url: https://linkedin.com/in/yourprofile
+    url: https://www.linkedin.com/in/selvakumar-thirumalainambi
