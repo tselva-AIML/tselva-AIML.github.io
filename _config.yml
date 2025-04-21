@@ -4,7 +4,7 @@ description: AI/ML portfolio showcasing computer vision and data science project
 url: "https://tselva-AIML.github.io"
 author:
   name: Selvakumar Thirumalainambi
-  email: your.email@example.com
+  email: tselva@gmail.com
 plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
@@ -35,4 +35,4 @@ navigation:
   - title: GitHub
     url: https://github.com/tselva-AIML/AI-ML-Portfolio
   - title: LinkedIn
-    url: https://linkedin.com/in/yourprofile
+    url: https://www.linkedin.com/in/selvakumar-thirumalainambi
