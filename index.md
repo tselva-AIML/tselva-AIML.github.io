@@ -1,9 +1,9 @@
 ---
-title: AI/ML Portfolio - T. Selva
+title: AI/ML Portfolio - Selvakumar Thirumalainambi
 layout: home
 ---
 
-# AI/ML Portfolio - T. Selva
+# AI/ML Portfolio - Selvakumar Thirumalainambi
 
 Welcome to my portfolio, showcasing projects from my **Post Graduate Program in AI/ML** (March 2025). As an aspiring **AI/ML Engineer**, I specialize in **computer vision**, **predictive modeling**, and **data analysis**, with hands-on expertise in TensorFlow, Keras, and OpenCV. Certified in **Azure Data Scientist Associate**, **AWS Certified AI Practitioner**, and **Power BI Data Analyst**, I’m passionate about building AI-driven solutions to solve real-world challenges. Explore my projects below, complete with source code, interactive notebooks, and datasets hosted on GitHub.
 
