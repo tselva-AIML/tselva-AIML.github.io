@@ -27,7 +27,7 @@ Welcome to my portfolio, showcasing projects from my **Post Graduate Program in 
 ## Explore More
 
 - **[GitHub Portfolio](https://github.com/tselva-AIML/AI-ML-Portfolio)**: Source code, notebooks, and datasets for all projects.
-- **[LinkedIn Profile](www.linkedin.com/in/selvakumar-thirumalainambi)**: Connect with me to discuss AI/ML opportunities.
-- **Email**: [tselva@.com]
+- **[LinkedIn Profile](https://www.linkedin.com/in/selvakumar-thirumalainambi)**: Connect with me to discuss AI/ML opportunities.
+- **Email**: [tselva@gmail.com]
 
 *This portfolio is built using GitHub Pages and Jekyll, reflecting my technical skills
